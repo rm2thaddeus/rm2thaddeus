@@ -19,34 +19,58 @@ In the **pharma industry**, I build generative ecosystems:
 ---
 
 ### 💻 Core Projects
-✨ [AI-Thor](https://chat.openai.com/g/g-ZCd2v1FNw-ai-thor) — reasoning assistant for strategic planning  
-📸 [Pixel Detective](https://github.com/rm2thaddeus/Pixel_Detective) — multi-modal RAG for visual data  
-🧠 [Photo Intelligence Agency](https://github.com/rm2thaddeus/photo-intelligence-agency-ai) — integrated AI media analysis suite  
-🧩 [PromptGramming](https://github.com/rm2thaddeus/promptgramming) — framework for idea-to-code automation  
-🔗 [Knowledge Graph](https://github.com/rm2thaddeus/Knowledge-Graph) — personal AI-driven KG system  
+⚡ [AI-Thor](https://chatgpt.com/g/g-ZCd2v1FNw-ai-thor) — wielding his hammer to squash AI problems  
+🧠 [Cortexus](https://chatgpt.com/g/g-HMbi7hVLd-cortexus) — a being made to create GPTs with personality  
+🎓 [Promptfessor](https://chatgpt.com/g/g-jq5mdQueS-promptfessor) — a long prompt to make other prompts  
+🚀 [Codyssey](https://chatgpt.com/g/g-OoVYdjIh0-codyssey) — embark on your coding journey with discovery-driven development  
+📸 [Pixel Detective](https://github.com/rm2thaddeus/Pixel_Detective) — multi-modal RAG for visual data analysis  
 
 ---
 
-### 🚀 Tech Pulse  
+### 🧠 AI Ecosystem Mindmap  
 ```mermaid
-graph LR
-    A[🧬 Biology] --> B[📊 Analytics]
-    B --> C[🤖 GenAI]
-    C --> D[⚡ Automation]
-    D --> A
-    
-    style A fill:#00FFFF
-    style B fill:#FF00FF  
-    style C fill:#8A2BE2
-    style D fill:#FF69B4
+mindmap
+  root((Aitor's<br/>AI Universe))
+    🧬 Molecular Biology
+      Synthetic Biology
+      Drug Discovery
+      Life Sciences
+    🤖 GenAI Architecture
+      GPT Creation
+      AI-Thor
+      Cortexus
+      Promptfessor
+      Codyssey
+    ⚡ Automation Systems
+      Process Optimization
+      180+ Hours Saved
+      Workflow Design
+    📊 Data Storytelling
+      Palantir Foundry
+      KPI Dashboards
+      Visual Analytics
+    🎯 Prompt Engineering
+      Strategic Planning
+      Workshop Facilitation
+      Global Enablement
 ```  
 
 ---
 
-### 📈 GitHub Dashboard  
-[![Stats](https://github-readme-stats.vercel.app/api?username=rm2thaddeus&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
-[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rm2thaddeus&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
-[![Streak](https://streak-stats.demolab.com?user=rm2thaddeus&theme=radical)](https://git.io/streak-stats)
+### 📊 Dynamic Activity Visualizer  
+```mermaid
+gitgraph
+    commit id: "AI-Thor v1.0"
+    commit id: "Cortexus Launch"
+    commit id: "Promptfessor"
+    commit id: "Codyssey"
+    commit id: "Pixel Detective"
+    branch automation
+    commit id: "180+ hrs saved"
+    checkout main
+    merge automation
+    commit id: "20+ GPTs deployed"
+```
 
 ---
 
