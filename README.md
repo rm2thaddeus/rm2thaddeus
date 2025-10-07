@@ -1,6 +1,3 @@
----
-
-### 🐍 Contribution Snake  
 ![Snake animation](https://github.com/rm2thaddeus/rm2thaddeus/blob/output/github-contribution-grid-snake.svg)
 
 ---
