@@ -54,8 +54,4 @@ mindmap
     🎯 Prompt Engineering
       Workshop Facilitation
       Global Enablement
-```  
-
-![BioPulse Activity](https://raw.githubusercontent.com/rm2thaddeus/rm2thaddeus/output/biopulse.svg)
-
----
+``` 
