@@ -8,10 +8,10 @@
 I turn research insight into automation pipelines, connecting *synthetic biology → analytics → GenAI*.  
 
 💊 **Life Sciences + AI Systems**  
-In the **pharma industry**, I build generative ecosystems:  
+In the **pharma industry**, I build generative AI ecosystems:  
 - 20+ GPT assistants deployed (400+ users)  
-- Palantir Foundry dashboards for KPI storytelling  
-- Process automation saving 180+ hours yearly  
+- Dashboards for KPI storytelling  
+- Process automation saving +45h hours yearly/user
 - Global enablement workshops on prompt design  
 
 🌐 **What drives me:** curiosity, elegant systems, and the thrill of making tech feel human.  
@@ -34,7 +34,8 @@ mindmap
   root((Aitor's<br/>AI Universe))
     🧬 Molecular Biology
       Synthetic Biology
-      Drug Discovery
+      Customer Support
+      Pharma regulation
       Life Sciences
     🤖 GenAI Architecture
       PromptGramming Framework
@@ -44,15 +45,14 @@ mindmap
       Promptfessor
       Codyssey
     ⚡ Automation Systems
+      Fast Prototyping
       Process Optimization
-      180+ Hours Saved
-      Workflow Design
+      AI Workflow Design
     📊 Data Storytelling
       Palantir Foundry
       KPI Dashboards
       Visual Analytics
     🎯 Prompt Engineering
-      Strategic Planning
       Workshop Facilitation
       Global Enablement
 ```  
