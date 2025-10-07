@@ -8,8 +8,8 @@
 I turn research insight into automation pipelines, connecting *synthetic biology → analytics → GenAI*.  
 
 💊 **Life Sciences + AI Systems**  
-At **Merck**, I build generative ecosystems:  
-- 17+ GPT assistants deployed (400+ users)  
+In the **pharma industry**, I build generative ecosystems:  
+- 20+ GPT assistants deployed (400+ users)  
 - Palantir Foundry dashboards for KPI storytelling  
 - Process automation saving 180+ hours yearly  
 - Global enablement workshops on prompt design  
@@ -27,14 +27,19 @@ At **Merck**, I build generative ecosystems:
 
 ---
 
-### 🧬 Stack & Tools  
-![Python](https://img.shields.io/badge/-Python-00FFFF?logo=python&logoColor=black)  
-![Palantir Foundry](https://img.shields.io/badge/-Palantir%20Foundry-FF00FF?logo=palantir&logoColor=white)  
-![Prompt Engineering](https://img.shields.io/badge/-Prompt%20Engineering-00CED1)  
-![RAG Systems](https://img.shields.io/badge/-MultiModal%20RAGs-8A2BE2)  
-![AI Agents](https://img.shields.io/badge/-AI%20Agents-FF69B4)  
-![Data Storytelling](https://img.shields.io/badge/-Data%20Storytelling-00BFFF)  
-![Visualization](https://img.shields.io/badge/-Visualization-DA70D6)  
+### 🚀 Tech Pulse  
+```mermaid
+graph LR
+    A[🧬 Biology] --> B[📊 Analytics]
+    B --> C[🤖 GenAI]
+    C --> D[⚡ Automation]
+    D --> A
+    
+    style A fill:#00FFFF
+    style B fill:#FF00FF  
+    style C fill:#8A2BE2
+    style D fill:#FF69B4
+```  
 
 ---
 
