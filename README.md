@@ -19,6 +19,7 @@ In the **pharma industry**, I build generative ecosystems:
 ---
 
 ### 💻 Core Projects
+🧩 **[PromptGramming](https://github.com/rm2thaddeus/promptgramming)** — framework to structure thoughts and shape them into production code  
 ⚡ [AI-Thor](https://chatgpt.com/g/g-ZCd2v1FNw-ai-thor) — wielding his hammer to squash AI problems  
 🧠 [Cortexus](https://chatgpt.com/g/g-HMbi7hVLd-cortexus) — a being made to create GPTs with personality  
 🎓 [Promptfessor](https://chatgpt.com/g/g-jq5mdQueS-promptfessor) — a long prompt to make other prompts  
@@ -36,6 +37,7 @@ mindmap
       Drug Discovery
       Life Sciences
     🤖 GenAI Architecture
+      PromptGramming Framework
       GPT Creation
       AI-Thor
       Cortexus
@@ -57,19 +59,28 @@ mindmap
 
 ---
 
-### 📊 Dynamic Activity Visualizer  
+### 📊 Project Evolution Timeline  
 ```mermaid
-gitgraph
-    commit id: "AI-Thor v1.0"
-    commit id: "Cortexus Launch"
-    commit id: "Promptfessor"
-    commit id: "Codyssey"
-    commit id: "Pixel Detective"
-    branch automation
-    commit id: "180+ hrs saved"
-    checkout main
-    merge automation
-    commit id: "20+ GPTs deployed"
+timeline
+    title AI Innovation Journey
+    
+    2024 Q1 : PromptGramming Framework
+            : Translation Hill Methodology
+            : MCP Integration Patterns
+            
+    2024 Q2 : AI-Thor Development
+            : Strategic Problem Solving
+            : First GPT Assistant
+            
+    2024 Q3 : Cortexus Launch
+            : GPT Personality Creation
+            : Multi-Agent Systems
+            
+    2024 Q4 : Promptfessor & Codyssey
+            : Prompt Engineering Mastery
+            : Discovery-Driven Development
+            : 20+ GPTs Deployed
+            : 180+ Hours Automation Savings
 ```
 
 ---
