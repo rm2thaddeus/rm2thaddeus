@@ -1,3 +1,7 @@
+![BioPulse Activity](https://raw.githubusercontent.com/rm2thaddeus/rm2thaddeus/output/biopulse.svg)
+
+---
+
 ![Snake animation](https://raw.githubusercontent.com/rm2thaddeus/rm2thaddeus/output/github-contribution-grid-snake.svg)
 
 ### ⚡ About Me  
