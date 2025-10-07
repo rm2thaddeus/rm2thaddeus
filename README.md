@@ -1,4 +1,4 @@
-![Snake animation](https://github.com/rm2thaddeus/rm2thaddeus/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/rm2thaddeus/rm2thaddeus/output/github-contribution-grid-snake.svg)
 
 ### ⚡ About Me  
 👋 Hi, I'm **Aitor** — an AI workflow architect blending molecular precision with digital transformation.  
