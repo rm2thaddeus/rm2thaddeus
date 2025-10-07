@@ -18,7 +18,10 @@ jobs:
           github_user_name: rm2thaddeus
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+          color_snake: "#00D9FF"
+          color_dots: "#00D9FF"
+          color_contribution: "#00D9FF"
+          show_total: false
 
       - name: List generated files (debug)
         run: ls -R
