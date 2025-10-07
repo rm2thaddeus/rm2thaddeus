@@ -1,4 +1,5 @@
-!
+
+
 ![Snake animation](https://raw.githubusercontent.com/rm2thaddeus/rm2thaddeus/output/github-contribution-grid-snake.svg)
 
 ### ⚡ About Me  
@@ -55,6 +56,6 @@ mindmap
       Global Enablement
 ```  
 
-[BioPulse Activity](https://raw.githubusercontent.com/rm2thaddeus/rm2thaddeus/output/biopulse.svg)
+![BioPulse Activity](https://raw.githubusercontent.com/rm2thaddeus/rm2thaddeus/output/biopulse.svg)
 
 ---
