@@ -1,5 +1,7 @@
-<!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=800&color=00FFFF&center=true&vCenter=true&width=700&lines=Aitor+Pati%C3%B1o+D%C3%ADaz;GenAI+Architect+%E2%9E%97+Scientist+%E2%9E%97+Builder;Designing+AI+systems+that+think+with+you)](https://git.io/typing-svg)
+---
+
+### 🐍 Contribution Snake  
+![Snake animation](https://github.com/rm2thaddeus/rm2thaddeus/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
@@ -64,12 +66,7 @@ mindmap
 - **45+ hours per person** saved annually through process automation
 - **Global enablement workshops** on prompt design and AI systems
 
----
 
-### 🐍 Contribution Snake  
-![Snake animation](https://github.com/rm2thaddeus/rm2thaddeus/blob/output/github-contribution-grid-snake.svg)
-
----
 
 🌌 *Creating bridges between human insight and machine intelligence.*
 
