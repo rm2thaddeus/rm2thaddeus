@@ -21,6 +21,7 @@ jobs:
           color_snake: "#00D9FF"
           color_dots: "#00D9FF"
           color_contribution: "#00D9FF"
+          color_total: transparent
           show_total: false
 
       - name: List generated files (debug)
