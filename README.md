@@ -59,27 +59,9 @@ mindmap
 
 ---
 
-### 📊 Project Evolution Timeline  
-```mermaid
-timeline
-    title AI Innovation Journey 
-
-    2025 Q1 : Video Timeline Analyzer (project kickoff)
-            : Photo Intelligence Agency (initial agents & scaffolding)
-            
-    2025 Q2 : Video Timeline Analyzer (GPU pipeline, docs, refactors)
-            : Photo Intelligence Agency (roadmap, tools, tests)
-            : Pixel Detective (feature sprints begin)
-            
-    2025 Q3 : Pixel Detective (clustering/UMAP work, docs)
-            
-    2025 Q4 : PromptGramming Framework (repo formalized)
-            : Translation Hill Methodology (template/initial commit)
-```
-
 ### 🎯 Key Outcomes  
 - **20+ GPT assistants** deployed across pharma industry (400+ users)  
-- **180+ hours** saved annually through process automation  
+- **45+ hours per person** saved annually through process automation
 - **Global enablement workshops** on prompt design and AI systems
 
 ---
