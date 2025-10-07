@@ -62,7 +62,7 @@ mindmap
 ### 📊 Project Evolution Timeline  
 ```mermaid
 timeline
-    title AI Innovation Journey (Verifiable)
+    title AI Innovation Journey 
 
     2025 Q1 : Video Timeline Analyzer (project kickoff)
             : Photo Intelligence Agency (initial agents & scaffolding)
