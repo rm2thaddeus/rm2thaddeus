@@ -1,7 +1,5 @@
 ![Snake animation](https://github.com/rm2thaddeus/rm2thaddeus/blob/output/github-contribution-grid-snake.svg)
 
----
-
 ### ⚡ About Me  
 👋 Hi, I'm **Aitor** — an AI workflow architect blending molecular precision with digital transformation.  
 I turn research insight into automation pipelines, connecting *synthetic biology → analytics → GenAI*.  
@@ -27,22 +25,22 @@ In the **pharma industry**, I build generative AI ecosystems:
 
 ---
 
-### 🧠 AI Ecosystem Mindmap  
+### 🧠 My Toolkit  
 ```mermaid
 mindmap
-  root((Aitor's<br/>AI Universe))
-    🧬 Molecular Biology
-      Synthetic Biology
+  root((Aitor's<br/> Universe))
+    🧬 Synthetic Biology
+      Analytical chemistry
       Customer Support
       Pharma regulation
       Life Sciences
     🤖 GenAI Architecture
       PromptGramming Framework
       GPT Creation
-      AI-Thor
-      Cortexus
-      Promptfessor
-      Codyssey
+        AI-Thor
+        Cortexus
+        Promptfessor
+        Codyssey
     ⚡ Automation Systems
       Fast Prototyping
       Process Optimization
@@ -55,15 +53,4 @@ mindmap
       Workshop Facilitation
       Global Enablement
 ```  
-
----
-
-### 🎯 Key Outcomes  
-- **20+ GPT assistants** deployed across pharma industry (400+ users)  
-- **45+ hours per person** saved annually through process automation
-- **Global enablement workshops** on prompt design and AI systems
-
-
-
-🌌 *Creating bridges between human insight and machine intelligence.*
 
