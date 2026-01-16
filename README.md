@@ -10,15 +10,15 @@ I turn research insight into automation pipelines, connecting *synthetic biology
 
 I design and scale Generative AI ecosystems in regulated pharma environments, with measured impact on productivity.
 
-20+ GPT micro-apps deployed across teams (400+ active users)
+  20+ GPT micro-apps deployed across teams (400+ active users)
 
-End-to-end GenAI ecosystem (RAG, copilots, dashboards, telemetry)
+  End-to-end GenAI ecosystem (RAG, copilots, dashboards, telemetry)
 
-2.5× productivity gain, measured by task throughput and time-on-task reduction after adoption
+  2.5× productivity gain, measured by task throughput and time-on-task reduction after adoption
 
-KPI & data storytelling dashboards for operational and leadership decisions
+  KPI & data storytelling dashboards for operational and leadership decisions
 
-Global enablement workshops on prompt engineering and GenAI workflows
+  Global enablement workshops on prompt engineering and GenAI workflows
 
 🌐 **What drives me:** curiosity, elegant systems, and the thrill of making tech feel human.  
 
