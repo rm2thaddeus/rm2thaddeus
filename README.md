@@ -7,6 +7,7 @@
 I turn research insight into automation pipelines, connecting *synthetic biology → analytics → GenAI*.  
 
 💊 **Life Sciences × AI Systems**
+
 I design and scale Generative AI ecosystems in regulated pharma environments, with measured impact on productivity.
 
 20+ GPT micro-apps deployed across teams (400+ active users)
