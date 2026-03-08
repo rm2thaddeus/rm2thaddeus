@@ -1,10 +1,6 @@
-﻿# Lincoln France AI Architect Artifacts
+﻿# Enterprise Human-AI Workflows: Architecture Artifacts
 
-This document maps the role scope of **AI Architect Solutions Expert - Lincoln France** into practical architecture artifacts.
-
-## Role Statement
-
-Design and architect enterprise-grade AI solutions that integrate LLMs with governed enterprise data and platforms across DEV and PROD, with security, compliance, and operational scalability.
+This pack maps practical architecture artifacts for enterprise AI systems where humans remain accountable and AI remains governed.
 
 ## Artifact 1: Enterprise LLM Reference Architecture
 
@@ -42,7 +38,7 @@ Includes:
 
 ## Artifact 4: Security and Compliance Control Matrix
 
-Purpose: Align AI solution architecture with legal and internal policy requirements.
+Purpose: Align AI solution architecture with internal policy and regulatory requirements.
 
 Includes:
 
@@ -80,11 +76,11 @@ Includes:
 - AI security, governance, observability: Artifacts 3, 4, 5
 - Platform-level AI enablement: Artifacts 2, 5, 6
 
-## Implementation Anchors from Portfolio
+## Implementation Anchors
 
-- PromptGramming: https://github.com/rm2thaddeus/promptgramming
-- Pixel Detective: https://github.com/rm2thaddeus/Pixel_Detective
-- Aitor_Skills: https://github.com/rm2thaddeus/Aitor_Skills
+- PromptGramming: https://rm2thaddeus.github.io/promptgramming/
+- Pixel Detective: https://rm2thaddeus.github.io/Pixel_Detective/
+- Aitor Skills: https://rm2thaddeus.github.io/Aitor_Skills/
 - Cortexus: https://chatgpt.com/g/g-HMbi7hVLd-cortexus
 - AI-Thor: https://chatgpt.com/g/g-ZCd2v1FNw-ai-thor
 - Promptfessor: https://chatgpt.com/g/g-jq5mdQueS-promptfessor
