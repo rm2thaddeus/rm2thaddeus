@@ -26,13 +26,9 @@ That means:
 ## 🚀 Proof of Work
 
 - Artifact index: [ARTIFACTS.md](./ARTIFACTS.md)
-- Architecture pack: [ENTERPRISE_HUMAN_AI_WORKFLOWS_ARTIFACTS.md](./ENTERPRISE_HUMAN_AI_WORKFLOWS_ARTIFACTS.md)
 - PromptGramming (live): [rm2thaddeus.github.io/promptgramming](https://rm2thaddeus.github.io/promptgramming/)
-  Source: [github.com/rm2thaddeus/promptgramming](https://github.com/rm2thaddeus/promptgramming)
 - Pixel Detective (live): [rm2thaddeus.github.io/Pixel_Detective](https://rm2thaddeus.github.io/Pixel_Detective/)
-  Source: [github.com/rm2thaddeus/Pixel_Detective](https://github.com/rm2thaddeus/Pixel_Detective)
 - Aitor Skills (live): [rm2thaddeus.github.io/Aitor_Skills](https://rm2thaddeus.github.io/Aitor_Skills/)
-  Source: [github.com/rm2thaddeus/Aitor_Skills](https://github.com/rm2thaddeus/Aitor_Skills)
 
 ## 🤖 Assistants
 
