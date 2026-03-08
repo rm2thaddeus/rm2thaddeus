@@ -25,7 +25,6 @@ That means:
 
 ## 🚀 Proof of Work
 
-- Artifact index: [ARTIFACTS.md](./ARTIFACTS.md)
 - PromptGramming (live): [rm2thaddeus.github.io/promptgramming](https://rm2thaddeus.github.io/promptgramming/)
 - Pixel Detective (live): [rm2thaddeus.github.io/Pixel_Detective](https://rm2thaddeus.github.io/Pixel_Detective/)
 - Aitor Skills (live): [rm2thaddeus.github.io/Aitor_Skills](https://rm2thaddeus.github.io/Aitor_Skills/)
